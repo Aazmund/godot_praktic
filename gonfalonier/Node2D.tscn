@@ -3,7 +3,12 @@
 [node name="Node2D" type="Node2D"]
 
 [node name="Button" type="Button" parent="."]
-margin_left = 332.487
-margin_top = 425.939
-margin_right = 681.487
-margin_bottom = 585.939
+margin_left = 844.0
+margin_top = 522.0
+margin_right = 1015.0
+margin_bottom = 591.0
+text = "Generate steps"
+
+[node name="Viewport" type="Viewport" parent="."]
+size = Vector2( 50, 50 )
+usage = 0
